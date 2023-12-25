@@ -1,0 +1,11 @@
+insert into PRODUCT values ( 1, 'SOAP', 100,1661372800);
+insert into PRODUCT values ( 2, 'SOAP2', 200,1661372800);
+insert into PRODUCT values ( 3, 'SOAP3', 300,1661372800);
+insert into PRODUCT values ( 4, 'SOAP4', 400,1661465600);
+insert into PRODUCT values ( 5, 'SOAP5', 500,1661465600);
+insert into PRODUCT values ( 6, 'SOAP6', 600,1661465600);
+insert into PRODUCT values ( 7, 'SOAP7', 700,1661558400);
+insert into PRODUCT values ( 8, 'SOAP8', 800,1661558400);
+insert into PRODUCT values ( 9, 'SOAP9', 900,1661558400);
+insert into PRODUCT values ( 10, 'SOAP10', 1000,1661651200);
+insert into PRODUCT values ( 11, 'SOAP11', 1100,1661651200);
